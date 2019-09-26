@@ -8,3 +8,19 @@ Keempatnya Salah, Karena Inputanya tidak sesuai dengan method int a, yang berjum
 ![Alt Text](https://github.com/bayuswara/Challenge_Method/blob/master/Method%204.png)
 # Challenge_Method 5 
 ![Alt Text](https://github.com/bayuswara/Challenge_Method/blob/master/Method%205.png)
+# Challenge_Kalkulator part 1
+![Alt Text](https://github.com/bayuswara/Challenge_Method/blob/master/Screenshot%20(42).png)
+# Challenge_Kalkulator part 2 
+![Alt Text](https://github.com/bayuswara/Challenge_Method/blob/master/Screenshot%20(43).png)
+# Challenge_kalkulator part 3
+![Alt Text](https://github.com/bayuswara/Challenge_Method/blob/master/Screenshot%20(44).png)
+# Challenge_kalkulator part 4
+![Alt Text](https://github.com/bayuswara/Challenge_Method/blob/master/Screenshot%20(45).png)
+# Challenge_kalkulator part 5
+![Alt Text](https://github.com/bayuswara/Challenge_Method/blob/master/Screenshot%20(46).png)
+# Challenge_kalkulator part 6
+![Alt Text](https://github.com/bayuswara/Challenge_Method/blob/master/Screenshot%20(47).png)
+# Challenge_kalkulator part 7
+![Alt Text](https://github.com/bayuswara/Challenge_Method/blob/master/Screenshot%20(48).png)
+# Challenge_kalkulator part 8
+![Alt Text](https://github.com/bayuswara/Challenge_Method/blob/master/Screenshot%20(49).png)
